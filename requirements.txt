@@ -1,0 +1,9 @@
+litellm
+python-dotenv
+edge_tts
+pygame
+SpeechRecognition
+PyAudio
+pydub
+sounddevice
+colorama
